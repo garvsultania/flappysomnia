@@ -152,18 +152,3 @@ npm run build
 ## 📝 License
 
 MIT License - feel free to use this code for your own projects!
-
-## 🌐 Network Details
-
-- **Network**: Somnia Testnet
-- **Chain ID**: 50312
-- **Rollup ID**: 1
-- **Gas Token**: FUSE - Sepolia SC: 0x9dB48D9FB1E306B14c7bB1336e4D0A0E6b5753eb
-- **RPC URL**: https://dream-rpc.somnia.network/
-- **Explorer**: https://shannon-explorer.somnia.network/
-- **Faucet**: https://faucet.quicknode.com/fuse/flash
-- **Bridge**: https://fuse-flash.bridge.quicknode.com/
-- **Bridge API**: https://fuse-flash-api.bridge.quicknode.com/
-- **Symbol**: STT
-- **Alternative Block Explorer**: https://somnia-testnet.socialscan.io/
-- **Alternate RPC**: https://rpc.ankr.com/somnia_testnet
